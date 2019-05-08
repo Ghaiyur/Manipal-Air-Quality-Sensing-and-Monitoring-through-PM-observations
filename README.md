@@ -16,8 +16,9 @@ Air quality has been a major concern to our species for hundreds of
 years, with our incremental use of natural resources for creation of
 energy to power our ever growing need, we have pushed the natural
 reservoir of our planet to its limits and in the process helped to increase
-the release of harmful and detrimental gases into our atmosphere. Gases
-such as Carbon Monoxide, Sulphur dioxide, Carbon dioxide, Nitrogen
+the release of harmful and detrimental gases into our atmosphere. 
+
+Gases such as Carbon Monoxide, Sulphur dioxide, Carbon dioxide, Nitrogen
 dioxide, and Ozone, which not only increase the overall temperature on
 the earth surface but also act as harmful chemicals to the biosphere and
 the life within it. It is important we develop ways to measure it.
@@ -29,6 +30,7 @@ creates greater health risk compared to every other component that is
 capable of harming us, thus sensing and monitoring the PM
 accumulation in a system gives a much better and clearer idea of the
 demerits and harm of our approach to using resources and our lifestyle.
+
 Through our photometric method of scaling and measuring the size and
 the concentration of the PM in an environment we can find out the level
 of pollution prevailing in that zone. The output of our set up gives
@@ -39,6 +41,7 @@ about trends about the level and condition of the air quality in that
 region and thus helps us to figure out how to change our methods to
 better incorporate our processes which lead to greater generation of
 Particulate Matter .
+
 India lacks serious infrastructure that can accommodate our growing
 industrialization and keep up with the ever increasing sources of
 pollution. We are not developing steps and methods to combat the
